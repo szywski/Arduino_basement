@@ -14,5 +14,7 @@ This contraption which obviously uses Arduino board also consist of:
 * couple of resistors 220 Ohm --> LED, 1k --> photoresistor 
 (for photoresistor it dosen't really matter how much resistance there is)
 
+###
+The circuit snapshot was created on [Tinkercard](https://www.tinkercad.com/)
 
 
