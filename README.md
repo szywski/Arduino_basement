@@ -7,11 +7,11 @@ Idea is very clear. Diode suggest if condition of surrounding is similar to base
 
 ### Elements
 This contraption which obviously uses Arduino board also consist of:
--RGB LED unit
--Photoresistor a.k.a light sensor
--LM35 or another decent temperature sensor
--some wireing
--couple of resistors 220 Ohm --> LED, 1k --> photoresistor 
+* RGB LED unit
+* Photoresistor a.k.a light sensor
+* M35 or another decent temperature sensor
+* some wireing
+* couple of resistors 220 Ohm --> LED, 1k --> photoresistor 
 (for photoresistor it dosen't really matter how much resistance there is)
 
 
